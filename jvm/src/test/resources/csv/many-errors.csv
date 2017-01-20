@@ -1,0 +1,5 @@
+"First Name", "Last", "Email"
+"Bob","frank.bob@foo.com"
+"Ted", "Bob",
+,"Bob",
+Malformed", "Bob", "test@foo.com"
